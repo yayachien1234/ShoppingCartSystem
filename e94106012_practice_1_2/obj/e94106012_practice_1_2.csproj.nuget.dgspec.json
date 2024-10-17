@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\USER\\OneDrive - 國立成功大學 National Cheng Kung University\\大三\\視窗程式設計\\1120915\\pratice1\\e94106012_practice_1_2\\e94106012_practice_1_2\\e94106012_practice_1_2\\e94106012_practice_1_2.csproj": {}
+    "C:\\Users\\USER\\OneDrive - 國立成功大學 National Cheng Kung University\\大三\\視窗程式設計\\01 第一周\\e94106012_practice_1_2\\e94106012_practice_1_2\\e94106012_practice_1_2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\USER\\OneDrive - 國立成功大學 National Cheng Kung University\\大三\\視窗程式設計\\1120915\\pratice1\\e94106012_practice_1_2\\e94106012_practice_1_2\\e94106012_practice_1_2\\e94106012_practice_1_2.csproj": {
+    "C:\\Users\\USER\\OneDrive - 國立成功大學 National Cheng Kung University\\大三\\視窗程式設計\\01 第一周\\e94106012_practice_1_2\\e94106012_practice_1_2\\e94106012_practice_1_2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER\\OneDrive - 國立成功大學 National Cheng Kung University\\大三\\視窗程式設計\\1120915\\pratice1\\e94106012_practice_1_2\\e94106012_practice_1_2\\e94106012_practice_1_2\\e94106012_practice_1_2.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\OneDrive - 國立成功大學 National Cheng Kung University\\大三\\視窗程式設計\\01 第一周\\e94106012_practice_1_2\\e94106012_practice_1_2\\e94106012_practice_1_2.csproj",
         "projectName": "e94106012_practice_1_2",
-        "projectPath": "C:\\Users\\USER\\OneDrive - 國立成功大學 National Cheng Kung University\\大三\\視窗程式設計\\1120915\\pratice1\\e94106012_practice_1_2\\e94106012_practice_1_2\\e94106012_practice_1_2\\e94106012_practice_1_2.csproj",
+        "projectPath": "C:\\Users\\USER\\OneDrive - 國立成功大學 National Cheng Kung University\\大三\\視窗程式設計\\01 第一周\\e94106012_practice_1_2\\e94106012_practice_1_2\\e94106012_practice_1_2.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USER\\OneDrive - 國立成功大學 National Cheng Kung University\\大三\\視窗程式設計\\1120915\\pratice1\\e94106012_practice_1_2\\e94106012_practice_1_2\\e94106012_practice_1_2\\obj\\",
+        "outputPath": "C:\\Users\\USER\\OneDrive - 國立成功大學 National Cheng Kung University\\大三\\視窗程式設計\\01 第一周\\e94106012_practice_1_2\\e94106012_practice_1_2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
